@@ -1,2 +1,2 @@
 # sublime
-User settings/package for Sublilme Text 3
+User settings/package for Sublime Text 3
