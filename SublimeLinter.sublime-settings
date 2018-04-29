@@ -1,0 +1,6 @@
+// SublimeLinter Settings - User
+{
+  "paths": {
+    "osx": ["/Users/emile/.nvm/versions/node/v9.11.1/bin/eslint"]
+  }
+}

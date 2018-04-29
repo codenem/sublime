@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Colorsublime",
+		"DotENV",
+		"Emmet",
+		"ERB Autocomplete",
+		"Fix Mac Path",
+		"GitGutter",
+		"Github Tools",
+		"Gutter Color",
+		"Indent XML",
+		"Jade",
+		"JSON Reindent",
+		"JSX",
+		"LESS",
+		"Package Control",
+		"Path Tools",
+		"SCSS",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Swift",
+		"TrailingSpaces"
+	]
+}
